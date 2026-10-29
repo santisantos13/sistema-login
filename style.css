@@ -2,6 +2,7 @@
 :root {
     --primary-color: #00a8e8;
     --primary-hover: #0086b8;
+    --secundary-color:#005b7c;
     --text-color: #0d1b2a;
     --subtext-color: #6c757d;
     --bg-color: #f0f8ff;
@@ -158,4 +159,56 @@ footer {
         opacity: 1;
         transform: translateY(0);
     }
+}
+/* Pagína INICIAL*/
+.header-home input{
+    
+    margin-top: 25px;
+    padding: 23px;
+    height: 1px;
+    width: 100%;
+    border: 1px solid var(--border-color);
+    border-radius: 5px;
+    box-sizing: border-box;
+    transition: border-color 0.2s ease;
+}
+
+.header-home button{
+    
+    width: auto;
+    margin-top: 25px;
+    padding: 15px;
+    background-color: var(--primary-hover);
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+}
+
+.header-home button:hover {
+    background-color: var(--secundary-color);
+}
+.header-home img{
+    margin-right: -4px;
+    margin-top: 7px;
+    width: 55px;
+}
+.header-home form{
+    flex: 1;
+    max-width: 600px;
+    display: flex ;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.header-conteudo {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.header-home h1{
+    margin-top: -15px;
 }
