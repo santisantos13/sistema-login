@@ -6,7 +6,7 @@ Exercício de HTML e CSS: telas de login e cadastro para a loja fictícia **NexP
 
 ## O que tem aqui
 
-- `login.html`: tela de entrada (e-mail e senha)
+- `index.html`: tela de entrada (e-mail e senha)
 - `cadastro.html`: tela de cadastro (nome, e-mail e senha)
 - `style.css`: estilos compartilhados pelas duas páginas
 
@@ -20,7 +20,7 @@ Exercício de HTML e CSS: telas de login e cadastro para a loja fictícia **NexP
 ## Como ver o projeto
 
 1. Baixe ou clone este repositório
-2. Abra o arquivo `login.html` no navegador
+2. Abra o arquivo `index.html` no navegador
 
 ## Próximos passos
 
