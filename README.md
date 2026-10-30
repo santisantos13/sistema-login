@@ -18,13 +18,8 @@ Exercício de HTML e CSS: telas de login e cadastro da loja fictícia **NexPlay*
 - Formulários com `label`, `input` e validação nativa (`required`, `type="email"`)
 - Variáveis CSS (`:root`) para a paleta de cores
 - Transições (`hover`, `focus`) e animação com `@keyframes`
-- Publicação do site com GitHub Pages
 
 ## Como ver o projeto
-
-O site está publicado em `[santisantos13.github.io](https://santisantos13.github.io/sistema-login/)`
-
-Ou, localmente:
 
 1. Baixe ou clone este repositório
 2. Abra o arquivo `index.html` no navegador
